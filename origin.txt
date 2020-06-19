@@ -1,0 +1,296 @@
+Uri: https://mope.io/
+File Name: c:\Downloaded Web Sites\mope.io\index.htm
+Content Type: text/html
+
+Uri: https://mope.io/main.css?v=1.224
+File Name: c:\Downloaded Web Sites\mope.io\main.css
+Content Type: text/css
+
+Uri: https://mope.io/favicon.ico
+File Name: c:\Downloaded Web Sites\mope.io\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://mope.io/updates.txt
+File Name: c:\Downloaded Web Sites\mope.io\updates.txt
+Content Type: text/plain
+
+Uri: https://mope.io/proxies.html
+File Name: c:\Downloaded Web Sites\mope.io\proxies.html
+Content Type: text/html
+
+Uri: https://mope.io/privacy/index.html
+File Name: c:\Downloaded Web Sites\mope.io\privacy\index.html
+Content Type: text/html
+
+Uri: https://mope.io/jquery_3_3_1.js
+File Name: c:\Downloaded Web Sites\mope.io\jquery_3_3_1.js
+Content Type: application/javascript
+
+Uri: https://mope.io/adblockdet/ads.js
+File Name: c:\Downloaded Web Sites\mope.io\adblockdet\ads.js
+Content Type: application/javascript
+
+Uri: https://mope.io/img/promo_yt.png
+File Name: c:\Downloaded Web Sites\mope.io\img\promo_yt.png
+Content Type: image/png
+
+Uri: https://mope.io/img/update/promo10.png
+File Name: c:\Downloaded Web Sites\mope.io\img\update\promo10.png
+Content Type: image/png
+
+Uri: https://mope.io/img/update/promoimg2.png
+File Name: c:\Downloaded Web Sites\mope.io\img\update\promoimg2.png
+Content Type: image/png
+
+Uri: https://mope.io/img/update/promoimg.png
+File Name: c:\Downloaded Web Sites\mope.io\img\update\promoimg.png
+Content Type: image/png
+
+Uri: https://mope.io/img/update/promo3.png
+File Name: c:\Downloaded Web Sites\mope.io\img\update\promo3.png
+Content Type: image/png
+
+Uri: https://mope.io/img/sound_on.png
+File Name: c:\Downloaded Web Sites\mope.io\img\sound_on.png
+Content Type: image/png
+
+Uri: https://mope.io/skins/land/mouse/2/mouse.png
+File Name: c:\Downloaded Web Sites\mope.io\skins\land\mouse\2\mouse.png
+Content Type: image/png
+
+Uri: https://mope.io/skins/land/mouse/1/mouse.png
+File Name: c:\Downloaded Web Sites\mope.io\skins\land\mouse\1\mouse.png
+Content Type: image/png
+
+Uri: https://mope.io/skins/ocean/shark/1/tigershark.png
+File Name: c:\Downloaded Web Sites\mope.io\skins\ocean\shark\1\tigershark.png
+Content Type: image/png
+
+Uri: https://mope.io/skins/ocean/shark/2/hammerhead.png
+File Name: c:\Downloaded Web Sites\mope.io\skins\ocean\shark\2\hammerhead.png
+Content Type: image/png
+
+Uri: https://mope.io/img/update/promo4.png
+File Name: c:\Downloaded Web Sites\mope.io\img\update\promo4.png
+Content Type: image/png
+
+Uri: https://mope.io/img/update/promo5.png
+File Name: c:\Downloaded Web Sites\mope.io\img\update\promo5.png
+Content Type: image/png
+
+Uri: https://mope.io/skins/land/dragon/1/dragon.png
+File Name: c:\Downloaded Web Sites\mope.io\skins\land\dragon\1\dragon.png
+Content Type: image/png
+
+Uri: https://mope.io/skins/desert/scorpion/1/giantscorpion.png
+File Name: c:\Downloaded Web Sites\mope.io\skins\desert\scorpion\1\giantscorpion.png
+Content Type: image/png
+
+Uri: https://mope.io/img/update/upd_skins.png
+File Name: c:\Downloaded Web Sites\mope.io\img\update\upd_skins.png
+Content Type: image/png
+
+Uri: https://mope.io/skins/shrimp.png
+File Name: c:\Downloaded Web Sites\mope.io\skins\shrimp.png
+Content Type: image/png
+
+Uri: https://mope.io/img/update/volcanic-eruption.png
+File Name: c:\Downloaded Web Sites\mope.io\img\update\volcanic-eruption.png
+Content Type: image/png
+
+Uri: https://mope.io/skins/arctic/snowman/snowman.png
+File Name: c:\Downloaded Web Sites\mope.io\skins\arctic\snowman\snowman.png
+Content Type: image/png
+
+Uri: https://mope.io/img/logo.png
+File Name: c:\Downloaded Web Sites\mope.io\img\logo.png
+Content Type: image/png
+
+Uri: https://mope.io/img/settings.png
+File Name: c:\Downloaded Web Sites\mope.io\img\settings.png
+Content Type: image/png
+
+Uri: https://mope.io/skins/mouse.png
+File Name: c:\Downloaded Web Sites\mope.io\skins\mouse.png
+Content Type: image/png
+
+Uri: https://mope.io/shop/mopecoin.png
+File Name: c:\Downloaded Web Sites\mope.io\shop\mopecoin.png
+Content Type: image/png
+
+Uri: https://mope.io/img/x.png
+File Name: c:\Downloaded Web Sites\mope.io\img\x.png
+Content Type: image/png
+
+Uri: https://mope.io/img/appAd_ios.png
+File Name: c:\Downloaded Web Sites\mope.io\img\appAd_ios.png
+Content Type: image/png
+
+Uri: https://mope.io/img/appAd_and.png
+File Name: c:\Downloaded Web Sites\mope.io\img\appAd_and.png
+Content Type: image/png
+
+Uri: https://mope.io/shop/exp.png
+File Name: c:\Downloaded Web Sites\mope.io\shop\exp.png
+Content Type: image/png
+
+Uri: https://mope.io/shop/left.png
+File Name: c:\Downloaded Web Sites\mope.io\shop\left.png
+Content Type: image/png
+
+Uri: https://mope.io/shop/right.png
+File Name: c:\Downloaded Web Sites\mope.io\shop\right.png
+Content Type: image/png
+
+Uri: https://mope.io/cdn-cgi/l/email-protection
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://mope.io/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://mope.io/cdn-cgi/styles/cf.errors.css
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://mope.io/cdn-cgi/scripts/zepto.min.js
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\scripts\zepto.min.js
+Content Type: application/javascript
+
+Uri: https://mope.io/cdn-cgi/scripts/cf.common.js
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\scripts\cf.common.js
+Content Type: application/javascript
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-300.eot
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-300.eot?
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-300.woff
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-300.woff
+Content Type: application/font-woff
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-300.ttf
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-300.bin
+Content Type: application/octet-stream
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-300.svg
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-300.svg
+Content Type: image/svg+xml
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-400.eot
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-400.eot?
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-400.woff
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-400.woff
+Content Type: application/font-woff
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-400.ttf
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-400.bin
+Content Type: application/octet-stream
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-400.svg
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-400.svg
+Content Type: image/svg+xml
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-600.eot
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-600.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-600.eot?
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-600-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-600.woff
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-600.woff
+Content Type: application/font-woff
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-600.ttf
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-600.bin
+Content Type: application/octet-stream
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-600.svg
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-600.svg
+Content Type: image/svg+xml
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-700.eot
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-700.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-700.eot?
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-700-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-700.woff
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-700.woff
+Content Type: application/font-woff
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-700.ttf
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-700.bin
+Content Type: application/octet-stream
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-700.svg
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-700.svg
+Content Type: image/svg+xml
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-300i.eot
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-300i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-300i.eot?
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-300i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-300i.woff
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-300i.woff
+Content Type: application/font-woff
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-300i.ttf
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-300i.bin
+Content Type: application/octet-stream
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-300i.svg
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-300i.svg
+Content Type: image/svg+xml
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-400i.eot
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-400i.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-400i.eot?
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-400i-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-400i.woff
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-400i.woff
+Content Type: application/font-woff
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-400i.ttf
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-400i.bin
+Content Type: application/octet-stream
+
+Uri: https://mope.io/cdn-cgi/styles/fonts/opensans-400i.svg
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\styles\fonts\opensans-400i.svg
+Content Type: image/svg+xml
+
+Uri: https://mope.io/cdn-cgi/images/error_icons.png
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\images\error_icons.png
+Content Type: image/png
+
+Uri: https://mope.io/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://mope.io/cdn-cgi/images/browser-bar.png?1376755637
+File Name: c:\Downloaded Web Sites\mope.io\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
